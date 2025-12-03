@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <string name="title_tasks">Mis tareas</string>
+    <string name="label_new_task">Nueva tarea</string>
+    <string name="msg_no_tasks">No hay tareas. Agrega la primera.</string>
+
+    <string name="filter_pending">Pendientes</string>
+    <string name="filter_all">Todas</string>
+    <string name="content_desc_filter">Aplicar filtro</string>
+
+    <string name="action_add">Agregar tarea</string>
+    <string name="action_delete">Eliminar tarea</string>
+    <string name="action_delete_completed">Borrar completadas</string>
+
+    <string name="task_completed">Tarea completada</string>
+    <string name="task_not_completed">Tarea pendiente</string>
+</resources>

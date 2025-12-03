@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+
+    <string name="title_tasks">My Tasks</string>
+    <string name="label_new_task">New Task</string>
+    <string name="msg_no_tasks">No tasks yet. Add your first one.</string>
+
+    <string name="filter_pending">Pending</string>
+    <string name="filter_all">All</string>
+    <string name="content_desc_filter">Toggle filter</string>
+
+    <string name="action_add">Add Task</string>
+    <string name="action_delete">Delete Task</string>
+    <string name="action_delete_completed">Delete Completed</string>
+
+    <string name="task_completed">Task completed</string>
+    <string name="task_not_completed">Task pending</string>
+</resources>
